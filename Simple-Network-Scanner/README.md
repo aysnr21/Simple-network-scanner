@@ -20,9 +20,3 @@ On your terminal change the directory to the Simple-Network-Scanner folder, then
 sudo python3 scanner.py
 ```
 
-## Tutorial
-For a detailed step-by-step tutorial on how to build this network scanner, check out our blog post: [Network Scanner with Packet Capture using Scapy]([path/to/explainer.md](https://helsnet.tech/network-scanner-with-packet-capture-using-scapy/))
-
-
-## Contributions
-Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request.
