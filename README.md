@@ -1,2 +1,2 @@
 # Simple-network-scanner
-network scanner
+python network scanner
